@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.botones-modal {
+    margin-top: 10px;
+    margin-bottom:25px;
+    width: 100px;
+}
+
+.form-control {
+    height: 70px;
+    align-items: start;
+
+}
+
+button {
+    font-size: 1rem;
+
+}
+
+.boton {
+    width: 50px;
+    height: 40px;
+}
